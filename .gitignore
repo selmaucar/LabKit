@@ -27,3 +27,6 @@
 *.i*86
 *.x86_64
 *.hex
+test.X/dist/default/production/test.X.production.cof
+*.tre
+*.mk
