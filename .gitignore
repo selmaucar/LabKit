@@ -29,3 +29,9 @@
 test.X/dist/default/production/test.X.production.cof
 *.tre
 *.mk
+*.err
+test.X/build/default/production/test.esym
+*.sym
+test.X/build/default/production/test.STA
+*.xsym
+test.X/build/default/production/test.lst
